@@ -8,7 +8,15 @@ hello there :)
 
 ## 興趣
 
-玩遊戲
+玩遊戲，寫程式?
+
+```c
+#include <stdio.h>
+int main()
+{
+    printf("hello world\n");
+}
+```
 
 [神秘網站](https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5)
 
